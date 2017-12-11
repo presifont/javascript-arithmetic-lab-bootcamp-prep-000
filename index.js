@@ -22,4 +22,4 @@ function makeInt(n) {
 }
 function makeInt(n) {
   retrun parseInt(n, 10)
-} 
+}
